@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100&display=swap');
+.Header {
+ .navbar-brand{
+  font-weight: bold !important;
+ }
+  .navbar-toggler{
+    color: white !important;
+    background-color: white !important;
+  }
+  .navbar-toggler-icon{
+    color: white !important;
+    background-color: white !important;
+  }
+  .contactus-btn {
+    background-color: black;
+    display: inline-flex;
+    padding: 12px 30px;
+    align-items: flex-start;
+    gap: 8px;
+    border-radius: 32px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: normal;
+    font-family: 'Archivo', sans-serif;
+  }
+
+//   .menuitem {
+//     // color: #FFF !important;
+//     font-family: 'Archivo', sans-serif;
+// font-size: 18px;
+// font-style: normal;
+// font-weight: 400;
+// line-height: normal;
+//   }
+}
+
+
+.Heropage{
+.sofa-img{
+  border-radius: 20px;
+}
+
+.sofa-text{
+  font-weight: 500;
+  font-size: 70px;
+}
+
+.contactus-btn {
+  background-color: black;
+  display: inline-flex;
+  padding: 12px 30px;
+  align-items: flex-start;
+  gap: 8px;
+  border-radius: 32px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: normal;
+  font-family: 'Archivo', sans-serif;
+}
+
+
+.collection-btn{
+  background-color: whitesmoke;
+  display: inline-flex;
+  padding: 12px 30px;
+  align-items: flex-start;
+  gap: 8px;
+  border-radius: 32px;
+  border: none;
+  color: black;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: normal;
+  font-family: 'Archivo', sans-serif;
+}
+
+
+.arrow{
+  background-color: black;
+  display: inline-flex;
+  padding: 12px 30px;
+  align-items: flex-start;
+  gap: 8px;
+  border-radius: 32px;
+  border: none;
+  color: black;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: normal;
+  font-family: 'Archivo', sans-serif;
+}
+
+.first-col{
+  background-color: whitesmoke;
+  border-radius: 40px;
+  display: flex;
+}
+
+
+  
+}
